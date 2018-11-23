@@ -1,2 +1,2 @@
 # OpenCV-Drums
-Use a red obect to use as drumsticks
+Use a red object to use as drumsticks
